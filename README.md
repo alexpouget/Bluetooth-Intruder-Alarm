@@ -18,7 +18,6 @@ puis on démarre le raspberry en branchant l'alimentation et on suit simplement 
 
 voilà le raspberry est prêt à être utilisé.
 
-ton gros pere
 
 
 
